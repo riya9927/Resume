@@ -67,6 +67,6 @@ June 2018 – March 2022
 - Bits and Bytes of Computer Networking – Coursera  
 - Python for Data Science – IBM
 - DevOps Fundamentals - IBM
-- Applied Data Science with Python – [Issuer not specified]
+- Applied Data Science with Python – Simplilearn
 
 ---
