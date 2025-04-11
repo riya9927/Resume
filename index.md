@@ -51,6 +51,12 @@ June 2018 – March 2022
 - Visualized trends using Matplotlib and Seaborn.
 - Provided actionable insights for marketing and sales strategy optimization.
 
+### [Spotify Clone – Full-Stack Music Streaming Application](https://github.com/riya9927/Spotify)
+- Developed a Spotify-inspired full-stack music streaming application using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+- Implemented user authentication, dynamic song listing, playlist creation, and music playback functionality.
+- Integrated responsive UI/UX design for seamless user experience across devices using Tailwind CSS.
+- Enabled real-time audio streaming and interactive controls using custom React components and context API.
+
 ---
 
 ## 📜 Certifications
@@ -59,7 +65,8 @@ June 2018 – March 2022
 - Cloud Computing – NPTEL  
 - Master C++ Programming Course – GeeksforGeeks  
 - Bits and Bytes of Computer Networking – Coursera  
-- Python for Data Science – IBM  
+- Python for Data Science – IBM
+- DevOps Fundamentals - IBM
 - Applied Data Science with Python – [Issuer not specified]
 
 ---
