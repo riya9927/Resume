@@ -28,6 +28,7 @@ June 2018 – March 2022
 - **Languages:** Java, Python, C++
 - **Frontend:** ReactJS, HTML, CSS, JavaScript, Tailwind
 - **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **Machine Learning:** Supervised & Unsupervised Learning, Regression, Classification, Clustering, Model Evaluation
 - **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 - **Tools:** GitHub, Postman, AWS (beginner), Docker (basic)
 
