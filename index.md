@@ -64,7 +64,8 @@ June 2018 – March 2022
 - Full Stack Web Development – Apna College  
 - Cloud Computing – NPTEL  
 - Master C++ Programming Course – GeeksforGeeks  
-- Bits and Bytes of Computer Networking – Coursera  
+- Bits and Bytes of Computer Networking – Coursera
+- AWS Cloud  Solutions Architect Course – Ethunus
 - Python for Data Science – IBM
 - DevOps Fundamentals - IBM
 - Applied Data Science with Python – Simplilearn
