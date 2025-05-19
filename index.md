@@ -41,6 +41,12 @@ June 2018 – March 2022
 - Implemented user authentication, product filtering, cart management, and secure payment integration.
 - Designed an admin dashboard for managing products, orders, and viewing analytics.
 
+### [ AstraMedicare– MERN Stack Doctor Appointment Booking System](https://github.com/riya9927/AstraMedicare)
+- Built a full-stack doctor appointment booking system using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+- Implemented role-based authentication for Patients, Doctors, and Admins using JWT and protected routes.
+- Integrated key features including online appointment booking, Electronic Health Record (EHR) management, and secure payment processing.
+- Designed a responsive and intuitive user interface using Tailwind CSS and React Router DOM for seamless navigation across roles and devices.
+
 ### [Study-Buddy – Personal Study Helper Website](https://github.com/riya9927/study-buddy)
 - Developed a feature-rich study management web app using React.js.
 - Included Pomodoro timer, habit tracking, to-do lists, journal, calendar, and roadmaps.
@@ -62,13 +68,14 @@ June 2018 – March 2022
 
 ## 📜 Certifications
 
-- Full Stack Web Development – Apna College  
+- Full Stack Web Development – Apna College
+- Machine Learning– Simplilearn + EICT-IITG
+- Applied Data Science – Simplilearn + EICT-IITG
 - Cloud Computing – NPTEL  
 - Master C++ Programming Course – GeeksforGeeks  
 - Bits and Bytes of Computer Networking – Coursera
 - AWS Cloud  Solutions Architect Course – Ethunus
 - Python for Data Science – IBM
 - DevOps Fundamentals - IBM
-- Applied Data Science with Python – Simplilearn
 
 ---
